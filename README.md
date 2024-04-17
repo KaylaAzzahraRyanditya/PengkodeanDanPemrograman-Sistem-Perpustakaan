@@ -17,3 +17,7 @@ Aplikasi website perpustakaan sederhana, menggunakan php native
 1. saat mengembalikan buku yang di pinjam, secara otomatis tabel buku akan di tambahkan 1 buku.
 
 2. Saat ingin meminjam buku, secara otomatis di tabel buku di kurangi.
+
+ERD
+
+![erdd drawio](https://github.com/KaylaAzzahraRyanditya/PengkodeanDanPemrograman-Sistem-Perpustakaan/assets/167239897/3e450bc8-6c69-4c61-bf86-135aaa7ced78)
